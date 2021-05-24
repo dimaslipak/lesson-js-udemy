@@ -14,9 +14,11 @@
 // console.log(answers);
 
 
-const name1 = 'Dima';
-alert(`Hello, ${name1}`);
-const name2 = 'Dziahileu';
-alert(`Hello, ${name2}`);
+// const name1 = 'Dima';
+// alert(`Hello, ${name1}`);
+// const name2 = 'Dziahileu';
+// alert(`Hello, ${name2}`);
+
+
 
 
